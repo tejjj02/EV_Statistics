@@ -12,7 +12,7 @@ This project is a Node.js + Express + TypeScript backend API for serving electri
 ## File Structure
 ```
 EV/
-├── backend/
+├── backend/                  # Backend API (Node.js + Express + TypeScript)
 │   ├── src/
 │   │   ├── controllers/
 │   │   │   └── statisticsController.ts
@@ -23,8 +23,28 @@ EV/
 │   │   └── index.ts
 │   ├── package.json
 │   └── tsconfig.json
-├── public/
+│
+├── public/                   # Public assets (shared, including mock-data.json)
 │   └── mock-data.json
+│
+├── app/                      # Next.js App Router directory (frontend)
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── ...other pages/components
+│
+├── components/               # Reusable React components (frontend)
+│   └── ...
+│
+├── hooks/                    # Custom React hooks (frontend)
+│   └── ...
+│
+├── styles/                   # CSS/Tailwind styles (frontend)
+│   └── ...
+│
+├── next.config.mjs           # Next.js configuration
+├── package.json              # Frontend dependencies and scripts
+├── tsconfig.json             # TypeScript config for frontend
+└── README.md                 # Project documentation
 ```
 
 ## Setup & Installation
