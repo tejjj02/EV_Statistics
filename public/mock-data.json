@@ -1,0 +1,89 @@
+{
+  "statistics": {
+    "dailySessions": [
+      { "date": "2024-01-01", "sessions": 85, "activeUsers": 60, "avgDuration": 35 },
+      { "date": "2024-01-02", "sessions": 92, "activeUsers": 65, "avgDuration": 38 },
+      { "date": "2024-01-03", "sessions": 88, "activeUsers": 62, "avgDuration": 36 },
+      { "date": "2024-01-04", "sessions": 95, "activeUsers": 68, "avgDuration": 39 },
+      { "date": "2024-01-05", "sessions": 102, "activeUsers": 72, "avgDuration": 41 },
+      { "date": "2024-01-06", "sessions": 98, "activeUsers": 70, "avgDuration": 40 },
+      { "date": "2024-01-07", "sessions": 105, "activeUsers": 75, "avgDuration": 42 },
+      { "date": "2024-01-08", "sessions": 112, "activeUsers": 80, "avgDuration": 43 },
+      { "date": "2024-01-09", "sessions": 108, "activeUsers": 78, "avgDuration": 42 },
+      { "date": "2024-01-10", "sessions": 115, "activeUsers": 82, "avgDuration": 44 },
+      { "date": "2024-01-11", "sessions": 122, "activeUsers": 85, "avgDuration": 45 },
+      { "date": "2024-01-12", "sessions": 118, "activeUsers": 83, "avgDuration": 44 },
+      { "date": "2024-01-13", "sessions": 125, "activeUsers": 88, "avgDuration": 46 },
+      { "date": "2024-01-14", "sessions": 132, "activeUsers": 92, "avgDuration": 47 },
+      { "date": "2024-01-15", "sessions": 128, "activeUsers": 90, "avgDuration": 46 },
+      { "date": "2024-01-16", "sessions": 135, "activeUsers": 95, "avgDuration": 48 },
+      { "date": "2024-01-17", "sessions": 142, "activeUsers": 98, "avgDuration": 49 },
+      { "date": "2024-01-18", "sessions": 138, "activeUsers": 96, "avgDuration": 48 },
+      { "date": "2024-01-19", "sessions": 145, "activeUsers": 100, "avgDuration": 50 },
+      { "date": "2024-01-20", "sessions": 152, "activeUsers": 105, "avgDuration": 51 },
+      { "date": "2024-01-21", "sessions": 148, "activeUsers": 103, "avgDuration": 50 },
+      { "date": "2024-01-22", "sessions": 155, "activeUsers": 108, "avgDuration": 52 },
+      { "date": "2024-01-23", "sessions": 162, "activeUsers": 112, "avgDuration": 53 },
+      { "date": "2024-01-24", "sessions": 158, "activeUsers": 110, "avgDuration": 52 },
+      { "date": "2024-01-25", "sessions": 165, "activeUsers": 115, "avgDuration": 54 },
+      { "date": "2024-01-26", "sessions": 172, "activeUsers": 118, "avgDuration": 55 },
+      { "date": "2024-01-27", "sessions": 168, "activeUsers": 116, "avgDuration": 54 },
+      { "date": "2024-01-28", "sessions": 175, "activeUsers": 120, "avgDuration": 56 },
+      { "date": "2024-01-29", "sessions": 182, "activeUsers": 125, "avgDuration": 57 },
+      { "date": "2024-01-30", "sessions": 178, "activeUsers": 123, "avgDuration": 56 },
+      { "date": "2024-01-31", "sessions": 185, "activeUsers": 128, "avgDuration": 58 }
+    ],
+    "monthlyStats": [
+      {
+        "month": "January 2024",
+        "totalSessions": 3850,
+        "totalUsers": 2680,
+        "avgSessionDuration": 46.5,
+        "peakConcurrentUsers": 128
+      },
+      {
+        "month": "February 2024",
+        "totalSessions": 4200,
+        "totalUsers": 2950,
+        "avgSessionDuration": 48.2,
+        "peakConcurrentUsers": 142
+      },
+      {
+        "month": "March 2024",
+        "totalSessions": 4550,
+        "totalUsers": 3220,
+        "avgSessionDuration": 49.8,
+        "peakConcurrentUsers": 156
+      },
+      {
+        "month": "April 2024",
+        "totalSessions": 4900,
+        "totalUsers": 3490,
+        "avgSessionDuration": 51.5,
+        "peakConcurrentUsers": 170
+      },
+      {
+        "month": "May 2024",
+        "totalSessions": 5250,
+        "totalUsers": 3760,
+        "avgSessionDuration": 53.2,
+        "peakConcurrentUsers": 184
+      },
+      {
+        "month": "June 2024",
+        "totalSessions": 5600,
+        "totalUsers": 4030,
+        "avgSessionDuration": 54.9,
+        "peakConcurrentUsers": 198
+      }
+    ],
+    "summary": {
+      "totalSessions": 28350,
+      "totalUsers": 20130,
+      "avgSessionDuration": 50.7,
+      "peakConcurrentUsers": 198,
+      "growthRate": 12.5,
+      "retentionRate": 82.3
+    }
+  }
+} 
