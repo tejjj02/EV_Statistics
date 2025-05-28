@@ -7,9 +7,7 @@ This project is a Node.js + Express + TypeScript backend API for serving electri
 ## Features
 - RESTful API built with Express and TypeScript
 - Serves mock EV charger statistics from a JSON file
-- CORS enabled for cross-origin requests
-- Centralized error handling
-- Easily extensible for real data or database integration
+
 
 ## File Structure
 ```
